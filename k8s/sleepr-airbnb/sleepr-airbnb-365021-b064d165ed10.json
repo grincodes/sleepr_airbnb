@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "containerdemo-365021",
+  "private_key_id": "b064d165ed10618b18f056fde5647381caebdbb1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC6IitZkPUf4OlP\nD2l5CEnewvkn16gyoyb3ga33GRlG4lm83HEtydSQZdR7zS+6qPNKKiiY4+GlCw1J\n8IV1iwEoJrWFBNNQCo8WnXI1TfnncXr4Rsuh9O0MRnvk8L7FpK9v+tK9/Atvc8/4\nnyQpaNF/peYHS1I7jHEG2LiglUeLLUkPwht4s2WXewC2HBiwi5dcIbk4Jxo4Pq7q\nkPe37LAHJ6Gctg2XieazJfVFkKrYeqIBP2m6zuCvuAbA4sLl2Z5g8nU4e6//0wUq\nSvlfGPONgRYWI935LzMy626sRJKvIwg5C2jVK6Zf/ecWsCkvbmw9NXWCgSyzUacs\nsjKqWcNtAgMBAAECgf8NEoF31qAv49gqRBhRuTepsjQ5WbP0REGhmPfW4LRQmbTE\npQti/l7wcrmPzf5WMckCBc/+abJZB+2s0Gc0IQSAedHvCeN8+gOCwJR839gPpW8A\np/xuL5wqMKtx8TcGuUeQgaiiFtU1taOHZZCzaL1BNpleHquTt/XBtPGCAQreH9D+\nfo66aP6CB/25pS2DiiP+7PZxqUQY/GMP14uLQLGudW7sfS6DT4ORsgDC9LW1E6IA\nkB+T5HsYOGF2UDZyHKVMFPVcDXhjF7inZYNK1a880kh61GnV94UFxO9Dps/BV+cp\nBxpHlPMtjb6X3+KviLBncncTbzsuIhsqHubfLjECgYEA8YVp1RIB38A2T0vMenI7\nMVaubdELqSGDGTxX5kWJ9QafITlfA41cS5y5srvnNXsEAs3MSPPxrvAUJOOab54i\nwRL/e+ovIhD9l5IHs13irEMOVrAqIX//YKBRMpsTNbiq64C/8zByqrzSlz5nOEvk\nO6/iHRv3JNTHjvVD82FL9OkCgYEAxUq66lRxlBG+cMAnlBg15l7DX+kUZFfPGmJM\nqt7gjCnWl2s2eK9TaI2HteJTnIVk876TpHOPdfKc8Bg9XQGMYGS3Bug8Yny8O3w5\n1rPVtBw8Q41v0A/7/H9tPvF8xZtcUvmIBlwyghZ/UUhhbPE4IVAjIw9rH2sXHCe6\nQs341+UCgYBoGP+3hW5nWTpPTTVR5WBb8Kd3z6099aLCwr6EEp7WjEcUE90+87O/\nJ0rmnZSW+XGOH9OX8gTOSM315F/REhCatSyG5TXxce9LX/aPubyUUMaiWIWgMMIK\njK7SqAJMmk6Y+MJC+DPEIWSHKa9llVhG3ZUQxNft+QQWOuJRyTLq2QKBgQCGm0gQ\nHPEpHzoZ32ChkCsmND2EsJfzJl3tGGhKpKn7t4fr44BUsvpreTTAidyWDAUmsD43\nk4ir5o3g2gjz7dyC3/RoSAb7AzPCOi2UKTqDGkibpmJFSMKaMa6tpUGF6UwCaLG/\n9SOY0hSntoSSObocMHrortpdo0kvMoPIlJNVaQKBgQDFg+1jPnXenPF2ED2VpKAm\n4GuDDukpoHdJbf6Ty/OS6ng1LJjj7Q+VINTZI1AVahI9BXhp7DjMoCfFOQEHyAjw\nwz+qt66U0eK/VuKHCA7VEUti3nRSWOxi2A6giNs1v+FRYD7qwmq2Jbt43m/Ay6e+\n2Xl+pac29q3LzrAXiLF+lA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "artifact-image-pull@containerdemo-365021.iam.gserviceaccount.com",
+  "client_id": "103958140222580958991",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/artifact-image-pull%40containerdemo-365021.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
